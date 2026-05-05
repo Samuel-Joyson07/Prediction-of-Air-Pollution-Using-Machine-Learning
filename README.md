@@ -1,0 +1,2 @@
+Air pollution prediction using machine learning leverages historical pollution and meteorological data to estimate the Air Quality Index (AQI). Machine learning models such as Linear Regression, Random Forest, Decision Tree, Support Vector Machine (SVM), and K-Nearest Neighbors (KNN) were used to analyze pollutant levels and weather conditions to improve prediction accuracy.
+Tech Stack – Python, Machine Learning, Data Analysis
